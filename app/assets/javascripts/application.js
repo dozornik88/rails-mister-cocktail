@@ -1,5 +1,4 @@
 // This is a manifest file that'll be compiled into application.js, which will include all the files
-import 'bootstrap';
 // listed below.
 //
 // Any JavaScript/Coffee file within this directory, lib/assets/javascripts, or any plugin's
